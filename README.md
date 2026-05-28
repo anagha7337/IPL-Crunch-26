@@ -80,7 +80,7 @@ The dataset contains IPL ball-by-ball records.
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Loading
 
