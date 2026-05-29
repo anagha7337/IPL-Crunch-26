@@ -1,6 +1,8 @@
 # IPL CRUNCH '26 🏏
 ## IPL Data Analysis Using Python and Pandas
 
+![Cover Picture](charts/ipl_logo.jpg)
+
 A data analysis project exploring IPL ball-by-ball data using **Python**, **Pandas**, and **Matplotlib** to uncover match trends, player performance insights, and surprising patterns in T20 cricket.
 
 Built as part of the IPL Crunch ’26 Wooble Hackathon Series, this project explores IPL data using Python to uncover trends, patterns, and match-winning insights.
