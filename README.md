@@ -7,9 +7,7 @@ A data analysis project exploring IPL ball-by-ball data using **Python**, **Pand
 
 Built as part of the IPL Crunch ’26 Wooble Hackathon Series, this project explores IPL data using Python to uncover trends, patterns, and match-winning insights.
 
-<br>
 ---
-<br>
 
 ## Project Overview
 
@@ -22,9 +20,9 @@ The Indian Premier League (IPL) generates massive ball-by-ball data every season
 
 This project analyzes IPL data using Python and presents insights supported by numbers and visualizations.
 
-<br>
+
 ---
-<br>
+
 
 ## Project Objectives
 
@@ -35,9 +33,9 @@ This project answers the following questions:
 - **Who are the top batters and bowlers across IPL seasons?**
 - **What surprising patterns can be discovered from the data?**
 
-<br>
+
 ---
-<br>
+
 
 ## Dataset
 
@@ -75,9 +73,9 @@ The dataset contains IPL ball-by-ball records.
 - `extras_noballs`
 - `wicket_kind`
 
-<br>
+
 ---
-<br>
+
 
 ## Tools & Technologies
 
@@ -88,9 +86,9 @@ The dataset contains IPL ball-by-ball records.
 - **VS Code**
 - **Jupyter Notebook / Python scripts**
 
-<br>
+
 ---
-<br>
+
 
 ## Methodology
 
@@ -136,14 +134,14 @@ Created:
 - comparison charts
 - summary tables
 
-<br>
+
 ---
-<br>
+
 
 ## Key Findings
-<br>
+
 ### 1. Toss Winner vs Match Winner
-<br>
+
 
 | Toss Winner Also Won? | Count |
 |---|---:|
@@ -152,39 +150,39 @@ Created:
 
 **Win %:** ~50.2%
 
-<br>
+
 ![toss winner vs match winner](charts/toss_vs_match.png)
-<br>
+
 
 ### Insight
 
 Winning the toss provides only a slight advantage and does not strongly determine match outcomes.
-<br>
+
 ---
-<br>
+
 ### 2. Phase Impact
-<br>
+
 Death overs produced the most scoring pressure and frequently influenced final match outcomes.
 
-<br>
+
 ![Most decisive phase by runs](charts/run_decisive_phase.png)
-<br>
+
 
 ![Most decisive phase by wickets](charts/wicket_decisive_phase.png)
-<br>
+
 
 ### Insight
 
 Later overs often become the deciding phase in T20 cricket.
 
-<br>
+
 ---
-<br>
+
 ### 3. Top Batters
 
-<br>
+
 ![Top batters by runs](charts/top_batters.png)
-<br>
+
 
 | Batter | Runs |
 |---|---:|
@@ -198,9 +196,9 @@ Later overs often become the deciding phase in T20 cricket.
 
 ### 4. Top Bowlers
 
-<br>
+
 ![Top bowlers by wickets](charts/top_bowlers.png)
-<br>
+
 
 | Bowler | Wickets |
 |---|---:|
@@ -209,15 +207,15 @@ Later overs often become the deciding phase in T20 cricket.
 | SP Narine | 203 |
 | PP Chawla | 192 |
 | JJ Bumrah | 189 |
-<br>
+
 
 ---
-<br>
+
 
 ##  Hidden Patterns & Surprising Findings
-<br>
+
 ### Strike Rate on Free Hit Deliveries
-<br>
+
 People often expect a free-hit delivery to almost always result in boundaries.
 
 Actual data showed:
@@ -230,19 +228,19 @@ Actual data showed:
 | Dot Ball % | 28.63% |
 | Avg Runs | 2.06 |
 
-<br>
+
 ![Avg strike rate on free-hit deliveries](charts/free_hit_outcomes.png)
-<br>
+
 
 ### Insight
 
 Free-hit deliveries are valuable, but they are not as dominant as commonly expected.
 
-<br>
+
 ---
-<br>
+
 ### Slow Anchors vs Quick Cameos
-<br>
+
 Comparison:
 
 | Type | Innings | Team Win % |
@@ -250,17 +248,17 @@ Comparison:
 | Slow Anchor (50+, SR <130) | 397 | 51.6% |
 | Quick Cameo (25–50, SR >200) | 354 | 62.4% |
 
-<br>
+
 ![Slow Anchors vs Quick Cameos](charts/slow_anchor_vs_quick_cameo.png)
-<br>
+
 
 ### Insight
 
 Quick, aggressive batting had a stronger connection with wins than longer but slower innings.
 
-<br>
+
 ---
-<br>
+
 
 ## Charts Included
 
@@ -274,9 +272,9 @@ Project includes visualizations for:
 - Free-hit analysis
 - Slow anchor vs quick cameo
 
-<br>
+
 ---
-<br>
+
 
 ## Future Scope
 
@@ -288,9 +286,9 @@ This project can be extended with:
 - Interactive dashboards
 - Machine learning models
 
-<br>
+
 ---
-<br>
+
 
 ## Project Structure
 
@@ -311,9 +309,9 @@ ipl-crunch-26/
 └── IPL_CRUNCH_26_Report.pdf
 ````
 
-<br>
+
 ---
-<br>
+
 
 ## References
 
@@ -323,9 +321,9 @@ ipl-crunch-26/
 * Matplotlib Documentation
 * Seaborn Documentation
 
-<br>
+
 ---
-<br>
+
 
 ## Conclusion
 
